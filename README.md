@@ -1,10 +1,7 @@
-Your typical wanna-be coder
 
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ReconVirus" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ReconVirus&hide=issues&show_icons=true&theme=chartreuse-dark" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ReconVirus&layout=compact&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ReconVirus&layout=compact&langs_count=8&show_icons=true&theme=chartreuse-dark" />
 </a>
-
-just trying to learn a few things... mainly for my needs 
