@@ -6,6 +6,9 @@
 
 ## 👾 About Me 
 
+Low-level curiosity, high-level chaos.  
+I break things to understand them - reverse engineering, and tooling for fun.
+
 ------
 
 ### 📊 GitHub Stats
@@ -20,49 +23,35 @@
 
 <details>
   <summary>🎖️ Environment & Tools</summary>
-  
+
   <table>
     <thead>
       <tr>
         <th>Environment</th>
         <th>Editors & Notes</th>
-        <th>Languages & Frameworks</th>
+        <th>Languages</th>
+        <th>Frameworks & Runtimes</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>
-          <a href="https://www.microsoft.com/windows/windows-11" title="Windows 11">
-            <img src="https://img.shields.io/badge/Windows%2011-0078D4?style=flat&logo=windows&logoColor=white" />
-          </a>
-          <a href="https://store.steampowered.com/steamos/" title="SteamOS">
-            <img src="https://img.shields.io/badge/SteamOS-black?style=flat&logo=steamdeck&logoColor=white" />
-          </a>
+          <img src="https://img.shields.io/badge/Windows%2011-0078D4?style=flat&logo=windows&logoColor=white" />
+          <img src="https://img.shields.io/badge/SteamOS-black?style=flat&logo=steamdeck&logoColor=white" />
         </td>
         <td>
-          <a href="https://code.visualstudio.com/" title="VS Code">
-            <img src="https://img.shields.io/badge/VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white" />
-          </a>
-          <a href="https://obsidian.md/" title="Obsidian">
-            <img src="https://img.shields.io/badge/Obsidian-%23483699?style=flat&logo=obsidian&logoColor=white" />
-          </a>
+          <img src="https://img.shields.io/badge/VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white" />
+          <img src="https://img.shields.io/badge/Obsidian-%23483699?style=flat&logo=obsidian&logoColor=white" />
         </td>
         <td>
-          <a href="https://www.typescriptlang.org/" title="TypeScript">
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-          </a>
-          <a href="https://nodejs.org/" title="Node.js">
-            <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white" />
-          </a>
-          <a href="https://reactjs.org/" title="React">
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
-          </a>
-          <a href="https://www.electronjs.org/" title="Electron">
-            <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" />
-          </a>
-          <a href="https://www.python.org/" title="Python">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-          </a>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        </td>
+        <td>
+          <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" />
         </td>
       </tr>
     </tbody>
@@ -79,7 +68,7 @@
     <img alt="Unlicense" src="https://img.shields.io/badge/License-%20Unlicense-808080.svg?style=flat&logo=unlicense&labelColor=222222">
     <img alt="WTFPL" src="https://img.shields.io/badge/License-_WTFPL-black?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIj8%2BCjxzdmcgd2lkdGg9IjI5NyIgaGVpZ2h0PSIyMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BCgogPGcgY2xhc3M9ImxheWVyIj4KICA8dGl0bGU%2BTGF5ZXIgMTwvdGl0bGU%2BCiAgPHBhdGggZD0ibTEwOC40MSw1LjkxYy01Ni4xLDAgLTEwMS41Nyw0NS40OSAtMTAxLjU3LDEwMS41OXM0NS40NywxMDEuNTkgMTAxLjU3LDEwMS41OWMxNC4yLDAgMjcuNzIsLTIuOTUgNDAsLTguMjFjMTIuMjcsNS4yNiAyNS43OSw4LjIxIDQwLDguMjFjNTYuMSwwIDEwMS41OSwtNDUuNDkgMTAxLjU5LC0xMDEuNTlzLTQ1LjQ5LC0xMDEuNTkgLTEwMS41OSwtMTAxLjU5Yy0xNC4yMSwwIC0yNy43MywyLjk1IC00MCw4LjIyYy0xMi4yOCwtNS4yNyAtMjUuOCwtOC4yMiAtNDAsLTguMjJ6bS0yLDMxLjljMTUuMzMsMCAyOS41MSw0LjkyIDQxLjA2LDEzLjI1YzExLjU1LC04LjMzIDI1LjcsLTEzLjI1IDQxLjAzLC0xMy4yNWMzOC44MiwwIDcwLjMxLDMxLjQ2IDcwLjMxLDcwLjI4cy0zMS40OSw3MC4zMiAtNzAuMzEsNzAuMzJjLTE1LjMzLDAgLTI5LjQ4LC00LjkzIC00MS4wMywtMTMuMjVjLTExLjU1LDguMzIgLTI1Ljc0LDEzLjI1IC00MS4wNiwxMy4yNWMtMzguODMsMCAtNzAuMjgsLTMxLjQ5IC03MC4yOCwtNzAuMzJzMzEuNDUsLTcwLjI4IDcwLjI4LC03MC4yOHoiIGZpbGw9IiMwMDAiIGlkPSJzdmdfMSIvPgogIDxwYXRoIGQ9Im0xMTYuODMsNjYuMTlsLTMzLjQyLDBjLTIyLjU1LDQ2LjY5IC0zLjY4LDc4LjQ3IDExLjIzLDg1LjA3YzE0LjkxLDYuNiAzOS4yOSwxMC43OSA1Mi44NCwtMTMuNjRjMTEuMTMsMjAuOTEgMzYuNDEsMjIuMTIgNTMuMjIsMTQuMzhjMTYuODEsLTcuNzUgMzMuMTIsLTQzLjEyIDExLjczLC04NS44MWwtMzMuOTksMGMxMS41LDI2LjQyIDExLjczLDYyLjQ2IDAuMDEsNjMuNTRjLTExLjczLDEuMDcgLTE1LjEsLTIuODUgLTEzLjc3LC00NC4yOWwtMzMuMywtMC4xNWMyLjQ4LDQwLjkgLTUuMDksNDggLTE1LjM0LDQzLjUyYy0xMC4yNSwtNC40OSAtOS44LC0yOC4xNCAwLjc5LC02Mi42MnoiIGZpbGw9IiMwMDAiIGlkPSJzdmdfMiIvPgogPC9nPgo8L3N2Zz4%3D&labelColor=white">
 <br>
-      <em>"I can't be revoked if I was never licensed."</em><br>
+      <em>"If this breaks something, you get to keep both pieces"</em><br>
     - <img alt="RootMe" src="https://img.shields.io/badge/%20ReconVirus-black?style=social&logo=rootme">
   </p>
 </details>
