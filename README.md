@@ -10,7 +10,7 @@
 
 <div align="center>
   
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=ReconVirus&width=800&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=ReconVirus&width=550&height=100)](https://github.com/Akshay090/svg-banners)
 
 </div>
 
