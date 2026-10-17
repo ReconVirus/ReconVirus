@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/Akshay090/svg-banners">
     <img 
-        src="https://svg-banners.vercel.app/api?type=glitch&text1=ReconVirus&width=800&height=200"
+        src="https://svg-banners.vercel.app/api?type=glitch&text1=ReconVirus"
         width="100%"
-        object-fit="contain"
+        height="200px"
         alt="SVG Banner"
     />
   </a>
