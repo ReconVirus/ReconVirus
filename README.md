@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=ReconVirus&width=600&height=200" alt="SVG Banner" />
+    <img align="center" src="https://svg-banners.vercel.app/api?type=glitch&text1=ReconVirus&width=600&height=200" alt="SVG Banner" />
+     <img align="center" src="https://svg-banners.vercel.app/api?type=glitch&text1=ReconVirus&width=600&height=150" width="100%" alt="SVG Banner" />
   </a>
 </p>
 
